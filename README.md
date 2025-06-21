@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # IntergalaticSportClubs
 A cool web destination where you can find most famous sports among different starts, planets, and galaxies
 =======
@@ -27,4 +27,4 @@ Welcome to the Intergalatic Sport Clubs web app! Explore the most famous sports 
 
 ## License
 Fictional project for creative demonstration.
->>>>>>> 097dfee (Add space clubs)
+
